@@ -36,5 +36,5 @@ Aprender React e Backend.
 Desenvolver sistemas reais para empresas.
 Criar meu próprio SaaS no futuro.
 📫 Contato
-GitHub: seu perfil
-LinkedIn: seu LinkedIn
+GitHub: ...
+LinkedIn: https://github.com/Marcosdeivide
