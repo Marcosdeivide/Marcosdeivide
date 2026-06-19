@@ -1,12 +1,40 @@
-👋 Olá, eu sou Marcos
+👋 Olá, eu sou Marcos Deivide
 
-💻 Estudante de Desenvolvimento Web  
-🚀 Focado em Front-End  
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End em formação.
 
-Tecnologias que estou aprendendo:
+Atualmente estou focado em aprender JavaScript, criar projetos próprios e construir um portfólio sólido para ingressar na área de tecnologia.
 
-- HTML
-- CSS
-- JavaScript (em breve)
+🚀 Tecnologias
+HTML5
+CSS3
+JavaScript
+Git
+GitHub
+📚 Atualmente estudando
+JavaScript
+Desenvolvimento Web
+Lógica de Programação
+APIs
+React (futuro)
+💼 Projetos
+Dashboard Administrativo
 
-Projetos:
+Projeto desenvolvido para praticar JavaScript, organização de código e construção de interfaces administrativas.
+
+Sistema de Gestão para Pet Shop
+
+Projeto planejado para aprofundar conhecimentos em desenvolvimento web e gerenciamento de dados.
+
+Landing Page Profissional
+
+Projeto focado em design responsivo e experiência do usuário.
+
+🎯 Objetivos
+Conseguir minha primeira oportunidade na área de tecnologia.
+Evoluir para Desenvolvedor Front-End.
+Aprender React e Backend.
+Desenvolver sistemas reais para empresas.
+Criar meu próprio SaaS no futuro.
+📫 Contato
+GitHub: seu perfil
+LinkedIn: seu LinkedIn
