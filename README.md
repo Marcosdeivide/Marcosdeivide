@@ -6,28 +6,28 @@ Atualmente estou focado em aprender JavaScript, criar projetos próprios e const
 
 🚀 Tecnologias
 
-HTML5,
+HTML5
 
-CSS3,
+CSS3
 
-JavaScript,
+JavaScript
 
-Git,
+Git
 
-GitHub,
+GitHub
 
-📚 Atualmente estudando,
+📚 Atualmente estudando
 
-JavaScript,
+JavaScript
 
-Desenvolvimento Web,
+Desenvolvimento Web
 
-Lógica de Programação,
+Lógica de Programação
 
-APIs,
+APIs
 
 React (futuro)
-,
+
 💼 Projetos
 Dashboard Administrativo
 
@@ -47,6 +47,9 @@ Evoluir para Desenvolvedor Front-End.
 Aprender React e Backend.
 Desenvolver sistemas reais para empresas.
 Criar meu próprio SaaS no futuro.
+
 📫 Contato
+
 GitHub: ...
+
 LinkedIn: https://github.com/Marcosdeivide
