@@ -5,17 +5,28 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-En
 Atualmente estou focado em aprender JavaScript, criar projetos próprios e construir um portfólio sólido para ingressar na área de tecnologia.
 
 🚀 Tecnologias
-HTML5
-CSS3
-JavaScript
-Git
-GitHub
-📚 Atualmente estudando
-JavaScript
-Desenvolvimento Web
-Lógica de Programação
-APIs
+HTML5,
+
+CSS3,
+
+JavaScript,
+
+Git,
+
+GitHub,
+
+📚 Atualmente estudando,
+
+JavaScript,
+
+Desenvolvimento Web,
+
+Lógica de Programação,
+
+APIs,
+
 React (futuro)
+,
 💼 Projetos
 Dashboard Administrativo
 
