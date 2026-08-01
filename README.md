@@ -199,11 +199,11 @@ React         ███░░░░░░░░░░░░░░░░░ 15%
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://[www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/marcos-d-010036260/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:marcosdeivide06@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
