@@ -54,14 +54,6 @@ const marcos = {
 
 Sistema para controle de ferramentas e movimentações.
 
-❤️ Nossa História
-
-Site responsivo criado como presente.
-
-🍔 Hora do Burguer
-
-Landing Page moderna.
-
 🎯 Objetivos
 
 ✅ Dominar JavaScript
